@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "username": "usr233351147233435442449",
+      "password": "pas",
+      "categories": "music",
+      "genres": "jazz rap"
+    },
+    {
+      "username": "usr",
+      "password": "pas",
+      "categories": "film",
+      "genres": "jazz"
+    }
+  ]
+}
